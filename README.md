@@ -1,0 +1,2 @@
+# Excel_Exhibit1
+This project shows how I munged the KickStarter projects data, performed data analysis and drew conclusions. Some more specific details include using conditional formatting depending on state of projects, creating new columns to find Percentage of projects funded, Average Donation, converting UNIX dates to excel format etc. Also created 3 Pivot tables and charts highlighting different trends and drawing conclusions. Finally did some story-telling part.
